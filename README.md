@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Carbon React Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Carbon Design System](https://react.carbondesignsystem.com/).
+
+Click on `use this template' and start making awesome apps.
 
 ## Available Scripts
 
